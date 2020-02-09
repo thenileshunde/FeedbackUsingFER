@@ -7,7 +7,7 @@ the creator, which aides he ameliorate his/her content and improves the viewers 
 ## Instructions
 Files Structure:
 - FER_CNN.ipynb - Tutorial to train the CNN
-- FER.py - Uses the pre-trained model to give inferences
+- ferMod.py - Uses the pre-trained model to give inferences
 - model.json - Neural network architecture
 - weights.h5 - Trained model weights
 ## Installation
