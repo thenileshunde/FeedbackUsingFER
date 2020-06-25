@@ -144,7 +144,7 @@ ffmpeg-python==0.2.0
 
 **Clone Repository**
 ```
-git clone "https://github.com/slashcaret/RealTimeFeedbackUsingFacialExpressionRecognition.git"
+git clone https://github.com/slashcaret/FeedbackUsingFER.git
 ```
 **Create new python 3.6.5 environment and switch to it**
 ```
@@ -161,8 +161,8 @@ git clone "https://github.com/slashcaret/RealTimeFeedbackUsingFacialExpressionRe
 **Execution and Feedback Generation**
 - On existing video:
 
-    For this application I have used a townhall 360p video of then President Obama which I found on youtube. <br/> 
-    [Here is the link] ()
+    For this application I have used a clip from townhall 360p video of then US President Obama which I found on youtube. <br/> 
+    [Here is the link 11:02-11.51] (https://youtu.be/fEKx5FuMUR4)
     ```
     python final.py video_name.mp4 30
     ```
